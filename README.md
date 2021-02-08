@@ -1,7 +1,3 @@
-# header
+# header 2
 
-Some description.
-
-## subheader
-
-More description.
+Some description 2.
